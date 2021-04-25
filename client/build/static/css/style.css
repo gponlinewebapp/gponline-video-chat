@@ -1,0 +1,5 @@
+@import "home/_global.css";
+
+/* components import */
+@import "home/components/_animations.css";
+@import "home/components/_header.css";

@@ -1,0 +1,13 @@
+body {
+    background-image: url("/images/Medical-Centre-Reception.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
+}
+
+* {
+    margin: 0;
+    padding: 0
+}
+
+/*# sourceMappingURL=main.754d5b50.chunk.css.map */
